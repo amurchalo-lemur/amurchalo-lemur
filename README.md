@@ -1,6 +1,6 @@
 # Hi, I'm Alex 👋
 
-Backend Developer focused on Java, Spring Boot and scalable backend systems.
+Backend Developer focused on Java, Pythonand scalable backend systems.
 
 ---
 
