@@ -1,16 +1,77 @@
-## Hi there 👋
+# Hi, I'm Artem 👋
 
-<!--
-**amurchalo-lemur/amurchalo-lemur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer focused on Java, Spring Boot and scalable backend systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+### Languages
+
+* Java
+* Python
+* Go
+
+### Backend
+
+* Spring
+* Spring Boot
+* Hibernate
+* REST API
+
+### Database
+
+* PostgreSQL
+* SQL
+
+### DevOps & Tools
+
+* Docker
+* Linux
+* Git
+* GitHub
+
+### Other
+
+* OOP
+* MVC
+* Microservices basics
+* Machine Learning basics
+
+---
+
+## 🔥 Featured Projects
+
+### Client-Server Messenger
+
+A network-based messenger application with message processing and real-time communication.
+
+### File Storage Server
+
+Backend service with session support and user access management.
+
+### Spring Boot CRUD API
+
+REST API application using Spring Boot, Hibernate and PostgreSQL.
+
+---
+
+## 📈 Currently Learning
+
+* Distributed systems
+* Scalable backend architecture
+* Machine Learning
+
+---
+
+## 🌍 Languages
+
+* English — B2
+* Spanish — B1
+
+---
+
+## 📫 Contact
+
+* Telegram: @amurchalo
+
