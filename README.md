@@ -1,4 +1,4 @@
-# Hi, I'm Artem 👋
+# Hi, I'm Alex 👋
 
 Backend Developer focused on Java, Spring Boot and scalable backend systems.
 
@@ -10,14 +10,15 @@ Backend Developer focused on Java, Spring Boot and scalable backend systems.
 
 * Java
 * Python
-* Go
 
 ### Backend
 
 * Spring
 * Spring Boot
 * Hibernate
-* REST API
+* REST API\
+* SQLAlchemy
+* Pydantic
 
 ### Database
 
