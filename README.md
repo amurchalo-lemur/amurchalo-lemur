@@ -37,7 +37,7 @@ Building scalable backend applications, REST APIs, and continuously learning dis
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=go,spring" />
+<img src="https://skillicons.dev/icons?i=go,java,Spring" />
 </p>
 
 - Go
@@ -103,5 +103,4 @@ REST API built with Spring Boot, Hibernate, and PostgreSQL.
 
 ## 📫 Contact
 
-- Telegram: @your_username
-- Email: your@email.com
+- Telegram: @amurchalo
