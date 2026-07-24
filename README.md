@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Alex;Go+Backend+Developer;Java+Backend+Developer;Python+Developer;Building+Scalable+Systems" />
 </p>
 
+-
+
 <h3 align="center">
 Backend Developer • Go • Java • Python
 </h3>
