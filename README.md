@@ -1,25 +1,28 @@
 <h1 align="center">👋 Hi, I'm Alex</h1>
 
 <h3 align="center">
-Backend Developer • Java • GO
+Backend Developer • Go • Java • Python
 </h3>
 
 <p align="center">
-Building scalable backend applications and learning distributed systems.
+Building scalable backend applications, REST APIs, and continuously learning distributed systems and modern backend architecture.
 </p>
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,spring,postgres,docker,git,github,linux" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=go,java,python,spring,postgres,docker,git,github,linux" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Backend Developer
-- 🌱 Currently learning Distributed Systems and Scalable Architecture
-- 🧠 Interested in Machine Learning
-- ⚡ Love writing clean and maintainable code
+- 💻 Backend Developer passionate about building scalable and reliable backend systems.
+- 🚀 Developing REST APIs using Go, Java (Spring Boot), and Python.
+- 🗄️ Experienced with PostgreSQL, SQL, and database design.
+- 🐳 Using Docker, Git, GitHub, and Linux in development.
+- 🌱 Currently learning Distributed Systems, Scalable Architecture, and Go ecosystem.
+- 🧠 Interested in Machine Learning and high-performance backend development.
+- ⚡ I enjoy writing clean, maintainable, and well-tested code.
 
 ---
 
@@ -28,22 +31,23 @@ Building scalable backend applications and learning distributed systems.
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python" />
+<img src="https://skillicons.dev/icons?i=go,java,python" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring" />
+<img src="https://skillicons.dev/icons?i=go,spring" />
 </p>
 
+- Go
 - Spring Boot
 - Hibernate
 - REST API
 - SQLAlchemy
 - Pydantic
 
-### Database
+### Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgresql" />
@@ -52,11 +56,16 @@ Building scalable backend applications and learning distributed systems.
 - PostgreSQL
 - SQL
 
-### DevOps
+### DevOps & Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
 </p>
+
+- Docker
+- Git
+- GitHub
+- Linux
 
 ---
 
@@ -68,22 +77,19 @@ Network messenger with real-time communication.
 
 ### 📁 File Storage Server
 
-File storage service with sessions and authentication.
+Backend file storage service with user authentication and session management.
 
 ### 🚀 Spring Boot CRUD API
 
-REST API with Spring Boot, Hibernate and PostgreSQL.
+REST API built with Spring Boot, Hibernate, and PostgreSQL.
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
 </p>
 
 ---
@@ -97,4 +103,5 @@ REST API with Spring Boot, Hibernate and PostgreSQL.
 
 ## 📫 Contact
 
-- Telegram: @amurchalo
+- Telegram: @your_username
+- Email: your@email.com
