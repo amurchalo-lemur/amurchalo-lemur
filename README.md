@@ -1,14 +1,14 @@
 <h1 align="center">👋 Hi, I'm Alex</h1>
 
 <h3 align="center">
-Backend Developer • Java • Python • REST API
+Backend Developer • Java • GO
 </h3>
 
 <p align="center">
 Building scalable backend applications and learning distributed systems.
 </p>
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=java,python,spring,postgres,docker,git,github,linux" />
 </p>
 
