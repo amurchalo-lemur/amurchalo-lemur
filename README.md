@@ -37,7 +37,7 @@ Building scalable backend applications, REST APIs, and continuously learning dis
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=go,java,Spring" />
+<img src="https://skillicons.dev/icons?i=go,java,python,spring,fastapi" />
 </p>
 
 - Go
