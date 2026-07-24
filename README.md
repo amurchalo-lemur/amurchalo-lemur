@@ -69,19 +69,14 @@ Building scalable backend applications, REST APIs, and continuously learning dis
 
 ---
 
-## 📂 Featured Projects
+## 📂 What I'm Working On
 
-### 💬 Client-Server Messenger
-
-Network messenger with real-time communication.
-
-### 📁 File Storage Server
-
-Backend file storage service with user authentication and session management.
-
-### 🚀 Spring Boot CRUD API
-
-REST API built with Spring Boot, Hibernate, and PostgreSQL.
+- 🚀 Backend development with Go
+- 🌐 REST API design
+- 🗄️ PostgreSQL and SQL optimization
+- 🐳 Dockerizing applications
+- 🏛️ Clean Architecture
+- ⚡ Concurrent programming in Go
 
 ---
 
