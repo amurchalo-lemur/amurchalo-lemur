@@ -111,85 +111,75 @@ My recent work includes:
 
 ---
 
-# AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|---|---|---|
-| Machine Learning | Advanced | Model development, optimization, deployment pipelines |
-| Deep Learning | Advanced | Neural networks, transformers, representation learning |
-| Natural Language Processing | Advanced | LLM applications, embeddings, semantic search |
-| Computer Vision | Intermediate | Image processing and AI-based automation |
-| MLOps | Advanced | Production ML systems, monitoring, deployment |
-| Generative AI | Advanced | AI agents, RAG systems, LLM integrations |
-
----
-
 # Featured Projects
 
 <details>
-<summary><b>AI Enterprise Knowledge Platform</b></summary>
+<summary><b>Okogit — Geospatial Camera Discovery Platform</b></summary>
 
 <br>
 
-An enterprise-grade AI platform enabling intelligent search, document understanding, and automated knowledge workflows.
+A web tourism-oriented platform that helps users discover cameras based on geographic location.  
+Users can select a point on the map and receive available cameras that capture the selected area.
+
+The project focuses on geospatial data processing, backend architecture, and scalable service design.
 
 | Category | Details |
 |---|---|
-| Stack | Python, FastAPI, React, PostgreSQL, OpenAI APIs |
-| Scale | Distributed architecture supporting thousands of users |
-| Performance | Optimized retrieval pipelines and caching |
-| Security | Authentication, authorization, encrypted data |
-| Impact | Reduced manual knowledge discovery time |
+| Stack | Java, Spring Boot, Spring JDBC, PostgreSQL, PostGIS, Docker, Kafka |
+| Architecture | Microservices architecture |
+| Database | Designed database schemas, relationships, indexes, and optimized SQL queries |
+| Geospatial | Implemented location-based search using PostgreSQL + PostGIS |
+| Performance | Query optimization and efficient geospatial data processing |
+| Security | Backend validation and service-level architecture |
+| Status | Active development |
 | Repository | Private / Available upon request |
 
-Built with production engineering principles including modular architecture, API-first design, and scalable AI infrastructure.
+My responsibilities:
+
+- Designed backend architecture
+- Developed REST API services
+- Created and maintained Swagger API documentation
+- Designed relational database structure
+- Implemented geospatial search functionality
+- Optimized database queries and indexing strategies
+- Worked with asynchronous communication using Kafka
+
+Built with a focus on scalable backend architecture and real-world geolocation-based services.
 
 </details>
 
 <br>
 
 <details>
-<summary><b>Cloud Native Microservices Platform</b></summary>
+<summary><b>SaaS API Gateway Service</b></summary>
 
 <br>
 
-A scalable backend ecosystem designed for high availability and enterprise workloads.
+A lightweight API Gateway service developed for a SaaS platform to improve request routing and optimize communication between backend services.
+
+The project focuses on microservice communication, domain routing, and backend infrastructure optimization.
 
 | Category | Details |
 |---|---|
-| Stack | Go, Kubernetes, Docker, PostgreSQL, AWS |
-| Scale | Multi-service distributed architecture |
-| Performance | Low latency APIs and optimized queries |
-| Security | Secure service communication and IAM policies |
-| Impact | Improved reliability and deployment velocity |
+| Stack | Go, Echo Framework, Docker |
+| Architecture | Microservice-based SaaS architecture |
+| Role | Backend API Gateway development |
+| Performance | Optimized service routing and request handling |
+| Infrastructure | Containerized deployment using Docker |
+| Impact | Improved orchestration workflow and service communication |
 | Repository | Private / Available upon request |
 
-Implemented observability, CI/CD automation, and cloud-native deployment strategies.
+My responsibilities:
+
+- Developed API Gateway service using Go
+- Designed backend routing logic
+- Optimized domain routing for task orchestration
+- Improved communication between SaaS services
+- Worked with containerized backend infrastructure
+
+Focused on building reliable backend infrastructure for scalable SaaS systems.
 
 </details>
-
-<br>
-
-<details>
-<summary><b>Developer Productivity Platform</b></summary>
-
-<br>
-
-A platform improving engineering workflows through automation and intelligent tooling.
-
-| Category | Details |
-|---|---|
-| Stack | TypeScript, Node.js, React, Cloud Services |
-| Scale | Multi-team engineering environment |
-| Performance | Automated workflows and optimized execution |
-| Security | Enterprise authentication systems |
-| Impact | Increased engineering efficiency |
-| Repository | Private / Available upon request |
-
-Focused on improving developer experience through reliable software tooling.
-
-</details>
-
 ---
 
 # Experience
