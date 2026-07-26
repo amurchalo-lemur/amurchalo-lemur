@@ -293,7 +293,7 @@ Responsibilities:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/amurchalo-lemur/amurchalo-lemur/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/amurchalo-lemur/amurchalo-lemur/gh-pages/github-contribution-grid-snake.svg"/>
 
 </div>
 
