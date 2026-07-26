@@ -23,9 +23,9 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=8B5CF6"/>
-<img src="https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=6366F1"/>
-<img src="https://img.shields.io/github/stars/yourusername?style=for-the-badge&color=7C3AED"/>
+<img src="https://komarev.com/ghpvc/?username=amurchalo-lemur&style=for-the-badge&color=8B5CF6"/>
+<img src="https://img.shields.io/github/followers/amurchalo-lemur?style=for-the-badge&color=6366F1"/>
+<img src="https://img.shields.io/github/stars/amurchalo-lemur?style=for-the-badge&color=7C3AED"/>
 
 </div>
 
