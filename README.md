@@ -248,7 +248,7 @@ Responsibilities:
 
 **Skills**
 
-`Go` `Java` `Python` `PostgreSQL` `MySQL` `Docker` `REST API` `Backend Development`
+`Go` `Java` `Python` `PostgreSQL` `Postgresql` `Docker` `REST API` `Backend Development`
 
 # Achievements
 
@@ -256,14 +256,15 @@ Responsibilities:
 
 | Recognition | Details |
 |---|---|
-| Engineering Excellence | Designed scalable production systems |
-| AI Innovation | Developed AI-powered automation solutions |
-| Open Source | Contributor to developer communities |
-| Performance Optimization | Improved application efficiency |
-| Technical Growth | Continuous advanced engineering development |
+| 🏆 Hackathon Winner | Winner of a university hackathon, developing software solutions under time constraints |
+| SaaS Backend Development | Developed Go-based API Gateway service for SaaS microservice architecture |
+| Backend Engineering | Designed and implemented REST APIs using Spring Boot ecosystem |
+| Geospatial Development | Built Okogit geospatial backend platform using PostgreSQL + PostGIS |
+| Database Engineering | Designed database schemas, indexes, relationships, and optimized SQL queries |
+| Backend Architecture | Applied microservice architecture principles for scalable backend systems |
+| Continuous Growth | Expanding expertise in Go, Java, system design, and backend engineering |
 
 </div>
-
 ---
 
 # Coding Profiles
