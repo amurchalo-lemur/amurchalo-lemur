@@ -13,10 +13,6 @@
 
 <br/>
 
-<a href="https://yourportfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
 <a href="https://linkedin.com/in/yourprofile">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
