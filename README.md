@@ -31,37 +31,52 @@
 
 ---
 
-# About Me
+## About Me
 
-I am a software engineer focused on designing and building scalable, secure, and high-performance digital systems.
+I am a **Backend Developer** focused on designing and building reliable, scalable, and maintainable backend systems.
 
-My expertise spans **full-stack engineering, distributed systems, cloud architecture, artificial intelligence, and machine learning solutions**. I specialize in transforming complex business requirements into reliable software products with strong engineering foundations.
+My primary stack includes **Go, Java, Python, PostgreSQL, MySQL, Docker, Spring Boot, Hibernate, and Echo Framework**. I specialize in backend development, database design, API architecture, and building production-oriented services.
 
-I combine engineering discipline with product thinking:
+I am passionate about understanding how software systems work internally — from clean architecture and object-oriented design to database optimization and scalable backend solutions.
 
-- Designing scalable backend architectures
-- Building modern full-stack applications
-- Developing AI-powered solutions
-- Optimizing performance and reliability
-- Creating developer-friendly platforms
-- Applying clean architecture and engineering best practices
+My engineering approach is based on:
 
-My approach combines:
+- Designing clean and maintainable backend architectures
+- Building RESTful APIs and SaaS-oriented services
+- Applying OOP principles and SOLID design patterns
+- Designing efficient database structures
+- Writing clean, testable, and scalable code
+- Improving performance and reliability of applications
 
-- Software Engineering Excellence
-- AI/ML Innovation
-- Cloud-Native Development
-- Product-Oriented Thinking
-- Open Source Collaboration
+Currently, I am deepening my expertise in:
+
+- Backend architecture and system design
+- Clean Architecture principles
+- Distributed systems fundamentals
+- Algorithms and data structures
+- Database modeling and optimization
+
+My recent work includes:
+
+- Designing database architectures for SaaS projects
+- Developing REST APIs and backend services in Go
+- Building API gateways for SaaS platforms
+- Designing location-based services using PostgreSQL + PostGIS
+- Creating backend solutions with scalability and maintainability in mind
 
 ### Open To
 
-- Senior Software Engineering opportunities
-- AI/ML engineering projects
+- Junior+ Backend Developer opportunities
+- Go / Java backend engineering roles
+- Working with strong engineering teams
+- Backend architecture challenges
 - Open source collaboration
-- Technical leadership roles
-- Innovative product development
 
+### Languages
+
+- 🇷🇺 Russian — Native
+- 🇬🇧 English — B2
+- 🇪🇸 Spanish — B1
 ---
 
 # Tech Stack
