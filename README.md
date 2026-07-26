@@ -291,8 +291,11 @@ Responsibilities:
 
 ---
 
-<img src="https://raw.githubusercontent.com/amurchalo-lemur/amurchalo-lemur/main/dist/github-contribution-grid-snake.svg"/>
+<div align="center">
 
+<img src="https://raw.githubusercontent.com/amurchalo-lemur/amurchalo-lemur/output/github-contribution-grid-snake.svg"/>
+
+</div>
 ---
 
 # Current Focus
