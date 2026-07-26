@@ -184,46 +184,71 @@ Focused on building reliable backend infrastructure for scalable SaaS systems.
 
 # Experience
 
-## Software Engineer — Technology Company
+## Backend Developer — SaaS API Gateway
 
-**2023 — Present**
+**September 2024 — February 2025**
 
-Building scalable software systems and AI-powered products.
+Personal backend infrastructure project focused on building a scalable API Gateway for a SaaS platform.
 
-Responsibilities:
-
-- Designing backend services and APIs
-- Developing cloud-native applications
-- Implementing AI-driven solutions
-- Improving system performance
-- Collaborating across engineering teams
-- Maintaining production reliability
-
-**Skills**
-
-`Go` `Python` `React` `AWS` `Docker` `Kubernetes` `Machine Learning`
-
----
-
-## Full Stack Engineer — Software Development
-
-**2021 — 2023**
-
-Developed modern web applications and scalable platforms.
+Designed and implemented backend services with a focus on microservice architecture, service communication, and maintainable system design.
 
 Responsibilities:
 
-- Built frontend applications
-- Designed backend services
-- Integrated databases and APIs
-- Automated development workflows
-- Improved application performance
+- Designed backend architecture for SaaS infrastructure
+- Developed API Gateway service using Go and Echo Framework
+- Implemented microservice communication patterns
+- Built containerized backend services using Docker
+- Improved request routing and service orchestration workflows
+- Applied backend engineering principles for scalable system design
 
 **Skills**
 
-`JavaScript` `TypeScript` `Node.js` `SQL` `Cloud`
+`Go` `Echo` `Docker` `Microservices` `REST API` `Backend Architecture`
 
 ---
+
+## Backend Developer — Okogit
+
+**August 2025 — Present**
+
+Commercial backend development project focused on geospatial camera discovery and location-based services.
+
+Developing backend services for a web tourism platform that allows users to discover cameras based on geographic coordinates.
+
+Responsibilities:
+
+- Designed backend architecture using microservice principles
+- Developed REST API services with Spring Boot
+- Designed relational database architecture
+- Implemented geospatial functionality using PostgreSQL + PostGIS
+- Optimized SQL queries and database performance
+- Created and maintained Swagger/OpenAPI documentation
+- Worked with Docker-based development environments
+- Designed scalable backend solutions for production requirements
+
+**Skills**
+
+`Java` `Spring Boot` `PostgreSQL` `PostGIS` `Spring JDBC` `Docker` `Kafka` `REST API` `Microservices`
+
+---
+
+## Freelance Backend Developer
+
+**2024 — Present**
+
+Working on backend development projects with a focus on API development, database design, and software architecture.
+
+Responsibilities:
+
+- Developing backend services and REST APIs
+- Designing database structures
+- Implementing business logic and backend features
+- Improving application performance
+- Collaborating with clients to deliver technical solutions
+
+**Skills**
+
+`Go` `Java` `Python` `PostgreSQL` `MySQL` `Docker` `REST API` `Backend Development`
 
 # Achievements
 
@@ -238,42 +263,6 @@ Responsibilities:
 | Technical Growth | Continuous advanced engineering development |
 
 </div>
-
----
-
-# Certifications
-
-## AWS
-
-<img src="https://img.shields.io/badge/AWS-Cloud%20Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-- AWS Cloud Architecture
-- AWS Developer Technologies
-
----
-
-## Oracle
-
-<img src="https://img.shields.io/badge/Oracle-Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-- Database Technologies
-- Cloud Infrastructure
-
----
-
-## NPTEL
-
-<img src="https://img.shields.io/badge/NPTEL-Certified-7C3AED?style=for-the-badge"/>
-
-- Computer Science Courses
-
----
-
-## Cisco
-
-<img src="https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-
-- Networking Fundamentals
 
 ---
 
