@@ -95,7 +95,7 @@ My recent work includes:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=spring,postgres,mongodb,mysql,gin&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=spring,postgres,mongodb,mysql,go&theme=dark"/>
 
 </div>
 
