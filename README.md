@@ -9,7 +9,6 @@
 <br/>
 
 <img src="https://img.shields.io/badge/Computer%20Science-Engineering-7C3AED?style=for-the-badge&logo=academia&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-Specialist-6366F1?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Location-Europe-4F46E5?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 <br/>
