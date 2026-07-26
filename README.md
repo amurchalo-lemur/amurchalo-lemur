@@ -267,39 +267,15 @@ Responsibilities:
 </div>
 ---
 
-# Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Competitive%20Programming-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-DSA-2F8D46?style=for-the-badge"/>
-</a>
-
-<a href="https://hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Coding-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-</a>
-
-<a href="https://codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Algorithms-5B4638?style=for-the-badge"/>
-</a>
-
-</div>
-
----
-
 # GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img src="https://github-readme-stats.vercel.app/api?username=amurchalo-lemur&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amurchalo-lemur&theme=tokyonight&hide_border=true&background=0D1117"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amurchalo-lemur&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
@@ -309,7 +285,7 @@ Responsibilities:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-frame=true&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=amurchalo-lemur&theme=darkhub&no-frame=true&column=7"/>
 
 </div>
 
@@ -319,7 +295,7 @@ Responsibilities:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amurchalo-lemur&theme=react-dark&hide_border=true"/>
 
 </div>
 
@@ -329,7 +305,7 @@ Responsibilities:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/amurchalo-lemur/amurchalo-lemur/output/github-contribution-grid-snake.svg"/>
 
 </div>
 
@@ -339,19 +315,13 @@ Responsibilities:
 
 ```yaml
 Learning:
-  - Advanced AI Systems
-  - Distributed Architecture
-  - Cloud Native Engineering
+  - database
+  - go, java
+  - microservice architecter
 
 Building:
-  - Production AI Applications
-  - Scalable Backend Platforms
-  - Open Source Tools
-
-Exploring:
-  - Large Language Models
-  - MLOps
-  - System Design
+  - apps
+  - servers
 
 Open To:
   - Engineering Opportunities
