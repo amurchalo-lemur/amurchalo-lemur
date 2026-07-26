@@ -1,4 +1,4 @@
-# Hi, I'm Alex — Software Engineer & AI Engineer
+# Hi, I'm Alex — backend developer
 
 <div align="center">
 
