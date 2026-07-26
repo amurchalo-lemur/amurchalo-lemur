@@ -21,6 +21,10 @@
 <img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://t.me/amurchalo">
+<img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=amurchalo-lemur&style=for-the-badge&color=8B5CF6"/>
