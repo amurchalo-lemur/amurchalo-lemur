@@ -35,7 +35,7 @@
 
 I am a **Backend Developer** focused on designing and building reliable, scalable, and maintainable backend systems.
 
-My primary stack includes **Go, Java, Python, PostgreSQL, MySQL, Docker, Spring Boot, Hibernate, and Echo Framework**. I specialize in backend development, database design, API architecture, and building production-oriented services.
+My primary stack includes **Go, Java, PostgreSQL, MySQL, Docker, Spring Boot, SPring, Hibernate, and Echo Framework**. I specialize in backend development, database design, API architecture, and building production-oriented services.
 
 I am passionate about understanding how software systems work internally — from clean architecture and object-oriented design to database optimization and scalable backend solutions.
 
@@ -85,7 +85,7 @@ My recent work includes:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=go,python,typescript,javascript,java,cpp,rust&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=go,java&theme=dark"/>
 
 </div>
 
