@@ -91,21 +91,11 @@ My recent work includes:
 
 ---
 
-## Frontend
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind,sass&theme=dark"/>
-
-</div>
-
----
-
 ## Backend & Databases
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,postgres,mongodb,redis,mysql&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=spring,springboot,postgres,mongodb,mysql,echo&theme=dark"/>
 
 </div>
 
