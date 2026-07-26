@@ -281,16 +281,6 @@ Responsibilities:
 
 ---
 
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=amurchalo-lemur&theme=darkhub&no-frame=true&column=7"/>
-
-</div>
-
----
-
 # Contribution Activity
 
 <div align="center">
