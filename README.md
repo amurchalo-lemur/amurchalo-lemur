@@ -105,7 +105,7 @@ My recent work includes:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,linux,git,github,githubactions&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,githubactions&theme=dark"/>
 
 </div>
 
