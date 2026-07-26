@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,12,20&text=Alex%20%7C%20Software%20Engineer&fontColor=ffffff&fontSize=45&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Juinior+Backend+Engineer;AI%2FML+Engineer;Full+Stack+Developer;Building+Scalable+Digital+Products" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Juinior+Backend+Developer" />
 
 <br/>
 
